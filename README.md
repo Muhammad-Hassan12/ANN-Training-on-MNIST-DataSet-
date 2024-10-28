@@ -4,3 +4,5 @@ This repository consist "ANN" Model training on the MNIST Dataset. Its an exampl
 I have included the Pre-Trained AI-Model "Captcha_Identifier.h5" and also as "Captcha_Identifier.keras". The efficiency of model is 98.90%
 ## Disclaimer!
 The Dataset I used is "mnist" from keras!
+## Future Plan
+In Future, I will upload a the same dataset trained on CNN Network!
